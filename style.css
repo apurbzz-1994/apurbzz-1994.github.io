@@ -43,7 +43,7 @@ body{
 
 #sc{
     background-color: yellowgreen;
-    padding: 2.5rem;
+    padding: 1.5rem;
     border-radius: 50%;
     opacity: 60%;
     font-weight: bold;
@@ -82,17 +82,17 @@ body{
     padding: 0.1em;
 }
 
-#game{
+.game{
     margin-top: 0.5em;
     width: 25%;
-    padding: 0.1em;
+    padding: 0.1em 0.3em 0.1em 0.3em;
     border-radius: 20px;
     background-color: white;
     border-color: #555555;
     color: #555555;
     border: 0.2em dashed #555555;
     font-weight: bold;
-    opacity: 50%;
+    opacity: 80%;
 }
 
 #anti{
